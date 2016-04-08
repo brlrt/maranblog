@@ -1,0 +1,1 @@
+This script is simple blog app, using flat file txt as database store content, is not using mySQL DB. Has archive pages, search, and comments. Is designed for small pages , small projects.
